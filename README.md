@@ -1,2 +1,3 @@
 # wxGlobalStateManager
-lightweight state management for wxapp
+
+轻量级的微信小程序全局状态管理工具
