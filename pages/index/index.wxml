@@ -1,0 +1,6 @@
+<view>
+  <view>index</view>
+  <view>{{ user.userName }}</view>
+  <button ontap="handleBtnClick">点击改名</button>
+  <button ontap="handleGo">前进</button>
+</view>
